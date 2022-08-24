@@ -1,43 +1,19 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Textbook">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Textbook" authors="Preview Course">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col11722</md:content-id>
-  <md:title>Second Link to Learning Test</md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <md:language>en</md:language>
-
-  
-
-  
-  
-  
-  
-  
-
-  <md:uuid>301fa8e5-1cd7-4c81-82e5-ef51c55f6674</md:uuid>
-<md:slug>second-link-to-learning-test</md:slug>
-</metadata>
-
+    <md:content-id>col11722</md:content-id>
+    <md:title>Second Link to Learning Test</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>301fa8e5-1cd7-4c81-82e5-ef51c55f6674</md:uuid>
+    <md:slug>second-link-to-learning-test</md:slug>
+  </metadata>
   <col:content>
-    
-      
-        
-      <col:subcollection>
-        <md:title>Chapter Only</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m51887"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
+    <col:subcollection>
+      <md:title>Chapter Only</md:title>
+      <col:content>
+        <col:module document="m51887"/>
+      </col:content>
+    </col:subcollection>
   </col:content>
 </col:collection>
